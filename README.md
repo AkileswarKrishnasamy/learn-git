@@ -2,4 +2,8 @@
 
 ##learning along new stuff
 
+this is a simple paragraphs
+
 ### I THINK IT IS THE HEADING 3
+
+this is a simple paragraphs
