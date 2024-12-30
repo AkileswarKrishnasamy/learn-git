@@ -14,3 +14,6 @@ this is the change made in feature branch
 #this heading is added to make the merge with the main branch
 
 ##this is to add a feature branch and main branch clash
+
+
+this is to understand rebasing example written from the main branch
