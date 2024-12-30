@@ -24,4 +24,5 @@ this is to understand rebasing example written from the main branch\
 this is the third stash
 this is also a stash
 
-this is the change made to create a conflict in pull request
+these are the changes made in pullrequest 
+
